@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=41A541&text=%20Welcome%20To%20My%20GitHub%20🙂&height=120&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=006400&text=%20Welcome%20To%20My%20GitHub%20🙂&height=120&fontSize=50&fontColor=ffffff)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghyeonpark&show_icons=true&theme=merko) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zigugu)](https://solved.ac/zigugu/)
 
