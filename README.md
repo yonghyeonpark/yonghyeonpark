@@ -4,7 +4,7 @@
 
 <br>
 
-# 🤹🏻‍♂️ Skills
+# 📚 Skills
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" /> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
 
 <br>
