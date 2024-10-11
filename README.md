@@ -4,7 +4,7 @@
 
 <br>
 
-<h2 align="center">📚 Skill</h2>
+<h3 align="center">📚 Skill</h3>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" /> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"/> <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <br>
@@ -14,16 +14,17 @@
 </div>
 
 <br>
-<h2 align="center">🛠️ Tool</h2>
+
+<h3 align="center">🛠️ Tool</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </div>
+
 <br>
 
-<h2 align="center">🔗 Link</h2>
+<h3 align="center">🔗 Link</h3>
 <div align="center">
   <a href="https://velog.io/@yongh/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 </div>
-
